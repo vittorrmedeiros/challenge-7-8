@@ -1,5 +1,7 @@
 # Challenges 7 and 8
 
+<hr>
+
 Challenge 7: Type 3 numbers and it's gonna show the biggest and the smallest of them!
 
 <hr>
